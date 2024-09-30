@@ -13,7 +13,7 @@ int main() {
      */
     denominator_1 = 0;
     while (denominator_1 == 0) {
-        cout << "Nhap vao tu so va mau so phai khac 0 (cach nhau boi khoang trang): ";
+        cout << "Nhap vao tu so va mau so phai khac 0 cua phan so thu nhat(cach nhau boi khoang trang): ";
         cin >> numerator_1 >> denominator_1;
     }
     
@@ -27,7 +27,7 @@ int main() {
      */
     denominator_2 = 0;
     while (denominator_2 == 0) {
-        cout << "Nhap vao tu so va mau so phai khac 0 (cach nhau boi khoang trang): ";
+        cout << "Nhap vao tu so va mau so phai khac 0 cua phan so thu hai(cach nhau boi khoang trang): ";
         cin >> numerator_2 >> denominator_2;
     }
 
